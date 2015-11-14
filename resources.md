@@ -23,3 +23,6 @@ This is just a place to document resources that were actually helpful in getting
 ##Markdown
 [Learn Some Basic Markdown](http://www.makeuseof.com/tag/learning-markdown-write-web-faster/)
 [StackEdit Web Editor](https://stackedit.io/editor#)
+[Markdown Basic](https://help.github.com/articles/markdown-basics/)
+[Github Flavored Markdown](https://help.github.com/articles/github-flavored-markdown/)
+[Task Lists in GFM](https://github.com/blog/1375%0A-task-lists-in-gfm-issues-pulls-comments)
