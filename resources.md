@@ -20,6 +20,9 @@ This is just a place to document resources that were actually helpful in getting
 [Yosemite Local Dev Env](https://echo.co/blog/os-x-1010-yosemite-local-development-environment-apache-php-and-mysql-homebrew)
 >Wow, this was super easy to follow and I did not run into any issues. Get up and running quickly!
 
+[The Perfect Web Development Environment for Your New Mac](https://mallinson.ca/osx-web-development/)
+>Similar setup. TODO: Custom homepage for all dev sites
+
 ##Markdown
 [Learn Some Basic Markdown](http://www.makeuseof.com/tag/learning-markdown-write-web-faster/)
 
