@@ -16,9 +16,16 @@ This is just a place to document resources that were actually helpful in getting
 [Ruby Version Management](https://rvm.io/)
 >Yosemite does not include most recent version of Ruby, and you may run into errors (I did) when trying to install Compass if you do not update
 
+##WordPress
+[Installing WordPress Locally on your Mac](https://codex.wordpress.org/Installing_WordPress_Locally_on_Your_Mac_With_MAMP)
+>I did not use MAMP, but this quick outline was still helpful. I had to extrapolate steps for phpMyAdmin setup elsewhere.
+
+[phpMyAdmin](http://coolestguidesontheplanet.com/get-apache-mysql-php-phpmyadmin-working-osx-10-10-yosemite/)
+>I was able to figure out what I needed to by reviewing the phpMyAdmin section on this page and putting it into context of the Local Dev setup linked below. I should probably document those steps on the blog.
+
 ##Local dev
 [Yosemite Local Dev Env](https://echo.co/blog/os-x-1010-yosemite-local-development-environment-apache-php-and-mysql-homebrew)
->Wow, this was super easy to follow and I did not run into any issues. Get up and running quickly!
+>Wow, this was super easy to follow but I did run into some issues. You need to keep track of the temporary password that is created when you install mySQL, and then enter that when you secure the installation (last step in the MySQL section of this tutorial). It will then tell you the password is expired at which point you can enter a new one, and then answer alot of y/n configuration questions. Getting a password setup was essential for setting up phpMyAdmin for local WordPress installs.
 
 [The Perfect Web Development Environment for Your New Mac](https://mallinson.ca/osx-web-development/)
 >Similar setup. TODO: Custom homepage for all dev sites
