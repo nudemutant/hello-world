@@ -4,6 +4,13 @@ This is just a place to document resources that were actually helpful in getting
 ##Command Line
 [Basic UNIX commands](http://mally.stanford.edu/~sr/computing/basic-unix.html)
 
+##Deployment
+[CSS Tricks Website Deployment Roundup](https://css-tricks.com/deployment/)
+
+[Github Pages](https://pages.github.com/)
+
+[Jekyll](http://jekyllrb.com/)
+
 ##Foundation
 [Foundation 5 SASS Install](http://foundation.zurb.com/docs/sass.html)
 
@@ -42,6 +49,6 @@ This is just a place to document resources that were actually helpful in getting
 >I did not use MAMP, but this quick outline was still helpful. I had to extrapolate steps to setup phpMyAdmin from the link below.
 
 [phpMyAdmin](http://coolestguidesontheplanet.com/get-apache-mysql-php-phpmyadmin-working-osx-10-10-yosemite/)
->I was able to figure out what I needed to by reviewing the phpMyAdmin section on this page and putting it into context of the Local Dev setup linked below. I should probably document those steps on the blog.
+>I was able to figure out what I needed to by reviewing the phpMyAdmin section on this page and putting it into context of the [Yosemite Local Dev Env](https://echo.co/blog/os-x-1010-yosemite-local-development-environment-apache-php-and-mysql-homebrew). I should probably document those additional steps somwhere.
 
 [FoundationPress](https://foundationpress.olefredrik.com/)
