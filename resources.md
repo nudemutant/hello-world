@@ -28,7 +28,7 @@ This is just a place to document resources that were actually helpful in getting
 
 ##Local dev
 [Yosemite Local Dev Env](https://echo.co/blog/os-x-1010-yosemite-local-development-environment-apache-php-and-mysql-homebrew)
->Wow, this was super easy to follow but I did run into some issues. You need to keep track of the temporary password that is created when you install mySQL, and then enter that when you secure the installation (last step in the MySQL section of this tutorial). It will then tell you the password is expired at which point you can enter a new one, and then answer alot of y/n configuration questions. Getting a password setup was essential for setting up phpMyAdmin for local WordPress installs.
+>Wow, this was super easy to follow but I did run into some issues. You need to keep track of the temporary password that is created when you install mySQL, and then enter that when you secure the installation (last step in the MySQL section of this tutorial). It will then tell you the password is expired at which point you can enter a new one, and then answer alot of y/n configuration questions. Securing MySQL was essential for setting up phpMyAdmin on local WordPress installs.
 
 [The Perfect Web Development Environment for Your New Mac](https://mallinson.ca/osx-web-development/)
 >Similar setup. I like the custom homepage this guy built for all of his local dev sites.
@@ -43,6 +43,13 @@ This is just a place to document resources that were actually helpful in getting
 [Github Flavored Markdown](https://help.github.com/articles/github-flavored-markdown/)
 
 [Task Lists in GFM](https://github.com/blog/1375%0A-task-lists-in-gfm-issues-pulls-comments)
+
+##Shopify
+[Timber Starter Theme](https://github.com/Shopify/Timber)
+
+[CSS Importing](https://github.com/Shopify/shopify-css-import)
+
+[Local Theming](https://github.com/Shopify/shopify_theme)
 
 ##WordPress
 [Installing WordPress Locally on your Mac](https://codex.wordpress.org/Installing_WordPress_Locally_on_Your_Mac_With_MAMP)
