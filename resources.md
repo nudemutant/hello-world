@@ -47,9 +47,10 @@ This is just a place to document resources that were actually helpful in getting
 ##Shopify
 [Timber Starter Theme](https://github.com/Shopify/Timber)
 
-[CSS Importing](https://github.com/Shopify/shopify-css-import)
+[Allow CSS Importing](https://github.com/Shopify/shopify-css-import)
 
-[Local Theming](https://github.com/Shopify/shopify_theme)
+[Allow Local Theming](https://github.com/Shopify/shopify_theme)
+>[shopify_theme](http://shopify.github.io/shopify_theme/)
 
 ##WordPress
 [Installing WordPress Locally on your Mac](https://codex.wordpress.org/Installing_WordPress_Locally_on_Your_Mac_With_MAMP)
